@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Delia Ayoko</h1>
 <h3 align="center">and I'm a Computer Science Student!</h3>
 
-- 🔭 I study Computer Science and I'm in my third year in college.
+- 🔭 I study Computer Science and I'm in my fourth year in college.
 
 - 🌱 I learn **cloud technologies with AWS.**
 
